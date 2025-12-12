@@ -41,11 +41,11 @@ List: [1, 2, 2, 3, 4, 4]
 Set : {1, 2, 3, 4}
 Now the number of elements in the set is 4, which is the answer.
 
-✔️ Time Complexity: O(n)
+Time Complexity: O(n)
 
 We visit each number once.
 
-✔️ Space Complexity: O(n)
+Space Complexity: O(n)
 
 Because the set stores unique numbers.
 
